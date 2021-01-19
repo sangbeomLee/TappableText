@@ -1,0 +1,16 @@
+PODS:
+  - TappableText (0.1.0)
+
+DEPENDENCIES:
+  - TappableText (from `../`)
+
+EXTERNAL SOURCES:
+  TappableText:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TappableText: 1d18e2b9792dcfd5235f13074de3aeeeead8250e
+
+PODFILE CHECKSUM: 04b1bf77bc53e6cb54abf98de627ead363868b7b
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module TappableText {
+  umbrella header "TappableText-umbrella.h"
+
+  export *
+  module * { export * }
+}

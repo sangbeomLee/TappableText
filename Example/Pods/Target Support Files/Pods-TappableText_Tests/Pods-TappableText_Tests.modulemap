@@ -1,0 +1,6 @@
+framework module Pods_TappableText_Tests {
+  umbrella header "Pods-TappableText_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
